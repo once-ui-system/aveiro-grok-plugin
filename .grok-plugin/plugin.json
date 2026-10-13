@@ -1,0 +1,14 @@
+{
+  "name": "aveiro",
+  "version": "1.0.0",
+  "description": "Aveiro publishing for Grok Build via the hosted Aveiro MCP server. Write, update and publish pages on hosted Aveiro sites, organise collections, add screenshots and images, draft social posts and newsletter campaigns, and read their performance. Sign in with your Aveiro account on first connect.",
+  "author": {
+    "name": "Aveiro",
+    "url": "https://aveiro.app"
+  },
+  "homepage": "https://aveiro.app/developers/mcp",
+  "repository": "https://github.com/once-ui-system/aveiro-grok-plugin",
+  "license": "MIT",
+  "keywords": ["aveiro", "aveiro.app", "aveiro mcp", "aveiro site", "aveiro newsletter"],
+  "logo": "assets/logo.svg"
+}

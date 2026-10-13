@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aveiro": {
+      "type": "http",
+      "url": "https://www.aveiro.app/api/mcp/mcp"
+    }
+  }
+}
